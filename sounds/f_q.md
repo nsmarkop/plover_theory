@@ -27,7 +27,7 @@ Q
 * `KWEUBG`: quick
 * `KWABG`: quack
 * `KWEUZ`: quiz
-* `KWEUP`: quip
+* `KWEUP`: equip
 * `KWAD`: quad
 * `KWEURBG`: quirk
 * `SKWARB`: squash
